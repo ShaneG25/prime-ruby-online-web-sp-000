@@ -6,3 +6,5 @@ def prime?(num)
     return false 
   end 
 end
+
+puts prime?(4)
